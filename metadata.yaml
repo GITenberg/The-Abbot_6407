@@ -1,5 +1,8 @@
 _repo: The-Abbot_6407
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -18,6 +21,8 @@ description: "The Abbot (1820) is a historical novel by Sir Walter Scott. A sequ
   \ in the time of Mary, Queen of Scots. The story follows the fortunes of certain\
   \ characters Scott introduced in The Monastery, but it also introduces new characters\
   \ such as Roland Graeme.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6407#The-Abbot
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
